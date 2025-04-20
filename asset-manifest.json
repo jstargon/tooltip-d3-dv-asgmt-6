@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/tooltip-d3-dv-asgmt-6.git/static/css/main.31d6cfe0.css",
-    "main.js": "/tooltip-d3-dv-asgmt-6.git/static/js/main.28dce65c.js",
-    "index.html": "/tooltip-d3-dv-asgmt-6.git/index.html",
-    "main.28dce65c.js.map": "/tooltip-d3-dv-asgmt-6.git/static/js/main.28dce65c.js.map"
+    "main.css": "/tooltip-d3-dv-asgmt-6/static/css/main.31d6cfe0.css",
+    "main.js": "/tooltip-d3-dv-asgmt-6/static/js/main.28dce65c.js",
+    "index.html": "/tooltip-d3-dv-asgmt-6/index.html",
+    "main.28dce65c.js.map": "/tooltip-d3-dv-asgmt-6/static/js/main.28dce65c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
